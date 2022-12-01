@@ -41,7 +41,7 @@ spec:
       # secretName: null
     config:
       capi:
-        repositoryURL: https://github.com/JamWils/gitops-ent-demo
+        repositoryURL: https://github.com/joshri/gitops-ent-demo
         # -- Can be changed depending on your git repo structure
         repositoryPath: ./clusters/clusters
         repositoryClustersPath: ./clusters
